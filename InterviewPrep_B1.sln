@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewPrep_B1", "InterviewPrep_B1\InterviewPrep_B1.csproj", "{F4ECBFD5-1515-49FB-ADDA-6FD89FE46E00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterviewPrep_B1", "InterviewPrep_B1\InterviewPrep_B1.csproj", "{F4ECBFD5-1515-49FB-ADDA-6FD89FE46E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPS_Concept", "OOPS_Concept\OOPS_Concept.csproj", "{F63554AA-29FD-471E-A531-914341233ECB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{F4ECBFD5-1515-49FB-ADDA-6FD89FE46E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4ECBFD5-1515-49FB-ADDA-6FD89FE46E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4ECBFD5-1515-49FB-ADDA-6FD89FE46E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F63554AA-29FD-471E-A531-914341233ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F63554AA-29FD-471E-A531-914341233ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F63554AA-29FD-471E-A531-914341233ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F63554AA-29FD-471E-A531-914341233ECB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

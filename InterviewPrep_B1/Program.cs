@@ -7,11 +7,35 @@ TestClass obj = new TestClass();
 
 // With the object name you can access the members from the class
 
-obj.GetDetails();
+//obj.GetDetails();
 
-void GetData()
-{
 
-}
+//ConstructExample objConstructor = new ConstructExample("Test");
+//ConstructExample objConstructor1 = new ConstructExample(10);
 
-GetData();
+//ConstructExample objConstructor3 = new ConstructExample("Test");
+
+
+
+
+//ConstructExample objConstructor2 = new ConstructExample();
+
+//ConstructExample objConstructor4 = new ConstructExample(objConstructor2);
+
+ConstructExample objConstructor = new ConstructExample();
+
+
+PropertiesExample objProp = new PropertiesExample();
+
+Console.WriteLine(objProp.address); // Delhi
+objProp.address = "Bangalore";
+
+Console.WriteLine(objProp.address); // Delhi
+
+
+Console.WriteLine(objProp.Name);
+objProp.Name = "Sibtain";
+Console.WriteLine(objProp.Name);
+objProp.Name = "Wamique Aliyas";
+
+//==========================================================
