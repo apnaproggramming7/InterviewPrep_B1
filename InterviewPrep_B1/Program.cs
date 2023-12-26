@@ -39,3 +39,7 @@ Console.WriteLine(objProp.Name);
 objProp.Name = "Wamique Aliyas";
 
 //==========================================================
+Console.WriteLine("=============Base Or Chain Constructor=============");
+DerivedClass md = new DerivedClass();
+DerivedClass md1 = new DerivedClass(1);
+Console.WriteLine("=============END Base Or Chain Constructor=============");

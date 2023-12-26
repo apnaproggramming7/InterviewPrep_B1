@@ -15,6 +15,7 @@
         public int Id { get; set; }
         public string Name { get; set; } = "Aliyas";
         public string Addess { get; set; } = "Kolkata";
+        public string Website { get;  } = "www.apnaprogramming.com";
 
         public void Get()
         {

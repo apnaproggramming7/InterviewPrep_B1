@@ -2,7 +2,7 @@
 
 namespace OOPS_Concept
 {
-    public class AbstractionExample:ArrayList
+    public class AbstractionExample
     {
 
         //Encaptulatio Process
@@ -10,6 +10,10 @@ namespace OOPS_Concept
         {
             ArrayList al= new ArrayList();
             al.Add("data");
+
+
+            MailSentClass mail = new MailSentClass();
+            mail.EmailSent("rerserwe");
         }
     }
 }
