@@ -10,6 +10,7 @@ namespace Other_Questions_Concepts
 
     public class CollectionsExample
     {
+        // ArrayList, Array, List<T>, Hashtable, Dictionary
         public void GetData()
         {
             ArrayList al = new ArrayList();
@@ -96,11 +97,13 @@ Answer:
 
 Array:  We can store only similar type of data  
         We can not add/remove in middle of an array
+        It is fix length data type, once you declare the legth we cannot add extra value
 
 
 
 ArrayList : We can store any type of value(object)
             We can  add/remove in middle of an ArrayList
+            It is a variable legth data type, we can add n no. of data at run time or any time
 
 Q. What is the diff. b/w ArrayList & List<T>
 
