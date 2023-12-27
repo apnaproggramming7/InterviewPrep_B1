@@ -60,7 +60,5 @@ We have differet type of polymorphism
 
     - Method will be with same name and different parameters(Parameter type must be different, should not with same order)
     - We can apply method overloading in the same class
-
-- Method Overriding 
  
  */
