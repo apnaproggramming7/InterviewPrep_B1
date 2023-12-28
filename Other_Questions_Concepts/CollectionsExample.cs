@@ -83,9 +83,9 @@ namespace Other_Questions_Concepts
                     Id = 1004,
                     Name = "Dilshad"
                 }
-            };         
+            };
 
-
+            //students.Where()
         }
     }
 }
